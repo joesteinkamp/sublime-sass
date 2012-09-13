@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Sassifier</name>
+    </assembly>
+    <members>
+        <member name="M:Sassifier.Program.Main(System.String[])">
+            <summary>
+            Creates a standalone wrapper executable for the <see cref="N:SassAndCoffee"/> library.
+            <para>See also https://github.com/xpaulbettsx/SassAndCoffee/issues/44 </para>
+            </summary>
+            <param name="args">path, iscompressed, list of dependencies (;)</param>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,5 @@
+{
+    "cmd": ["Sassifier.exe", "$file", "true"],
+    "working_dir": "$packages/SASS/Sassifier",
+    "selector": "source.sass"
+}
